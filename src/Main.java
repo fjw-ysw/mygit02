@@ -5,5 +5,6 @@ public class Main {
         System.out.println("第三个版本");
         System.out.println("第四个版本");
         System.out.println("正常合并分支");
+        System.out.println("master 分支做了修改");
     }
 }
