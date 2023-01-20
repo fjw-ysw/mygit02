@@ -8,5 +8,6 @@ public class Main {
         System.out.println("master 分支做了修改");
         System.out.println("f1 分支做了修改");
         System.out.println("演示代码推送");
+        System.out.println("演示代码拉取");
     }
 }
